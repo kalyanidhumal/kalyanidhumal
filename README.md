@@ -16,3 +16,96 @@
 [![](https://komarev.com/ghpvc/?username=Kalyani-D18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 **About Me**
+
+## 👋 **Hi, I'm Kalyani Shantaram Dhumal**
+
+🎓 **Final-year B.E. Artificial Intelligence & Data Science student** at **Amrutvahini College of Engineering**, passionate about building **innovative, scalable, and user-friendly solutions**.
+
+I am interested in **Artificial Intelligence, Data Science, UI/UX Design, and Web Development**. I enjoy transforming ideas into impactful solutions by combining **technology, creativity, and problem-solving skills**. I am continuously exploring new technologies and improving my **technical, analytical, and design abilities**.
+
+---
+
+# 💡 **What I Do**
+
+- 🤖 **Build AI & Data Science Solutions**
+- 🎨 **Design Intuitive UI/UX Experiences**
+- 🌐 **Develop Responsive Web Applications**
+- 📊 **Analyze Data & Generate Insights**
+- 🗄️ **Work with SQL & Databases**
+- 🚀 **Explore Emerging Technologies**
+
+---
+
+# 🛠️ **Technical Skills**
+
+### 💻 **Programming Languages**
+- **Python**
+- **Java**
+- **C**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
+### 🌐 **Web Development**
+- **Frontend Development**
+- **Responsive Web Design**
+- **Interactive JavaScript Applications**
+
+### 🎨 **UI/UX Design**
+- **Figma**
+- **Wireframing**
+- **Prototyping**
+- **User-Centered Design**
+
+### 🗄️ **Database**
+- **SQL**
+
+### 🤖 **AI & Data Science**
+- **Python for Data Science**
+- **NumPy**
+- **Pandas**
+- **Machine Learning Fundamentals**
+- **Data Analysis**
+
+---
+
+# 🌟 **Featured Projects**
+
+### 🎓 **Online Learning Platform UI**
+Designed a **modern and responsive learning platform interface** using **Figma**, focusing on **clean design, usability, and enhanced user experience**.
+
+### 🤖 **AI & Data Science Projects**
+Developed academic projects involving **Machine Learning, Data Analysis, and Web Technologies** to solve **real-world problems**.
+
+### 🌐 **Web Development Projects**
+Created **interactive web applications** using **HTML, CSS, JavaScript**, and backend technologies with a focus on **performance, functionality, and user experience**.
+
+---
+
+# 🚀 **Currently Learning**
+
+- 🎨 **Advanced UI/UX Design**
+- 🤖 **Agentic AI & Generative AI**
+- 🐍 **Advanced Python Programming**
+- 📊 **Data Science & Machine Learning**
+- 🌐 **Modern Web Development**
+
+---
+
+# 🎯 **Goals**
+
+- 🚀 **Build Innovative Technology Solutions**
+- 📈 **Enhance AI, Data Science & Software Development Skills**
+- 🤝 **Collaborate on Impactful Projects**
+- 🌟 **Grow as a Technology Professional**
+
+---
+
+# 📫 **Let's Connect**
+
+📧 **Email:** **kalyanidhumal705@gmail.com**
+
+---
+
+## ✨ **"Learn. Create. Innovate. Grow."** 🚀
